@@ -3,9 +3,8 @@
 <h3 align="center">A 3rd Year Computer Science Student at University of San Carlos</h3>
 
 <div align="center">
-Aspiring software engineer, 20 years old. In 2018, I began teaching myself HTML, CSS, PHP, and JavaScript. The University of San Carlos uses the C programming language to teach various data structures and algorithms. My ambition and passion drive me to be a very dedicated person.<br><br>
-
-I recently served as a company's full-stack web developer during my summer. I'm now studying iOS development and Machine Learning. I'm hoping I can realize my goals.
+Aspiring software engineer, 20 years old. In 2018, I began teaching myself HTML, CSS, PHP, and JavaScript. The University of San Carlos uses the C programming language which I learned various data structures and algorithms that can be helpful to my career. I recently served as a company's full-stack web developer during my summer. I'm now studying iOS development and Machine Learning.<br><br>
+My ambition and passion drive me to be a very dedicated person and I'm hoping I can realize my goals.
 </div>
 <hr>
 <h3 align="center">Connect with me:</h3>
