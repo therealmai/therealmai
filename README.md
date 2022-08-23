@@ -1,4 +1,4 @@
-<![ezgif com-gif-maker](https://user-images.githubusercontent.com/69794504/186140941-16056365-4dd6-4062-9806-4c2e1de07b9a.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/69794504/186140941-16056365-4dd6-4062-9806-4c2e1de07b9a.gif)
 <h1 align="center">Hi 👋, I'm Jomar Leaño</h1>
 <h3 align="center">A 3rd Year Computer Science Student at University of San Carlos</h3>
 
